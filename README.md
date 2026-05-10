@@ -95,3 +95,12 @@ MongoDB
 Passport.js
 Bootstrap
 EJS
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushil-khunt&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krushil-khunt&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushil-khunt&layout=compact&theme=tokyonight"/>
+
+</div>
