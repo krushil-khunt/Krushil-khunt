@@ -67,34 +67,8 @@
 
 ---
 
-# 🚀 Featured Project
+# 📊 GitHub Stats
 
-<div align="center">
-
-## 🏠 Airbnb Clone
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-77d2f9f7-f5c8-4b16-8cb2-63f53c9f9c76.gif" width="700"/>
-
-</div>
-
-### 🔥 Features
-
-✅ User Authentication  
-✅ Property Listing CRUD  
-✅ Review & Rating System  
-✅ User Authorization  
-✅ Responsive UI  
-✅ Secure Middleware Protection  
-
-### 🛠️ Tech Used
-
-```bash
-Node.js
-Express.js
-MongoDB
-Passport.js
-Bootstrap
-EJS
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushil-khunt&show_icons=true&theme=tokyonight"/>
