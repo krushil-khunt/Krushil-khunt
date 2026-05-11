@@ -26,5 +26,5 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/krushil-khunt
-- LinkedIn: https://linkedin.com/in/krushil-khunt
+- LinkedIn: https://www.linkedin.com/in/krushil-khunt-8a43b42a7/
 - Email: krushilkh@gmail.com
