@@ -3,8 +3,8 @@
 ### 💻 Full Stack Web Developer
 
 🚀 MERN Stack Developer  
-🎓 B.Sc. IT Student  
-📍 Gujarat, India  
+🎓 B.Sc. IT Graduate 
+📍 Rajkot,Gujarat, India  
 
 ## 🛠️ Skills
 
@@ -16,6 +16,7 @@
 - MongoDB
 - PHP
 - Laravel
+
 
 ## 📊 GitHub Stats
 
