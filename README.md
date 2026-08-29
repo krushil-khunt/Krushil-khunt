@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Web Developer
 
-🚀 MERN Stack Developer  
+🚀 PHP/Laravel Developer  
 🎓 B.Sc. IT Graduate 
 📍 Rajkot,Gujarat, India  
 
@@ -14,8 +14,10 @@
 - Node.js
 - Express.js
 - MongoDB
+- SQL
 - PHP
 - Laravel
+- wordpress
 
 
 ## 🌐 Connect With Me
