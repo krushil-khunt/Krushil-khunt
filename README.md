@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Web Developer
 
-🚀 PHP/Laravel Developer  
+🚀 PHP/Laravel Developer | wordpress
 🎓 B.Sc. IT Graduate 
 📍 Rajkot,Gujarat, India  
 
@@ -11,13 +11,16 @@
 - HTML
 - CSS
 - JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- SQL
+- jQuery
 - PHP
 - Laravel
 - wordpress
+- SQL
+- Node.js
+- Express.js
+- MongoDB
+
+
 
 
 ## 🌐 Connect With Me
